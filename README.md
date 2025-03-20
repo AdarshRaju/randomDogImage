@@ -1,5 +1,5 @@
 # randomDogImage
-A random dog image is grabbed from an external api through the server side.
+A random dog image is grabbed from an external api through the server side and rendered on the front end page.
 
 To start the server:
 1. Download the files.
